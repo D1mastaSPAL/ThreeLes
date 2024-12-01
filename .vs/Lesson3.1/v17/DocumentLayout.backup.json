@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{957ABEDF-630D-437E-878B-57D90832ED70}|Lesson3.1\\Lesson3.1.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson3.1\\lesson3.1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957ABEDF-630D-437E-878B-57D90832ED70}|Lesson3.1\\Lesson3.1.csproj|solutionrelative:lesson3.1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5E6F7-3E57-494D-BBEF-06BAB36917B7}|Lesson3.2\\Lesson3.2.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson3.1\\lesson3.2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5E6F7-3E57-494D-BBEF-06BAB36917B7}|Lesson3.2\\Lesson3.2.csproj|solutionrelative:lesson3.2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson3.1\\Lesson3.2\\Task2.cs",
+              "RelativeDocumentMoniker": "Lesson3.2\\Task2.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson3.1\\Lesson3.2\\Task2.cs",
+              "RelativeToolTip": "Lesson3.2\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:00:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson3.1\\Lesson3.1\\Task1.cs",
+              "RelativeDocumentMoniker": "Lesson3.1\\Task1.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson3.1\\Lesson3.1\\Task1.cs*",
+              "RelativeToolTip": "Lesson3.1\\Task1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:59:35.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
