@@ -12,3 +12,4 @@ C:\Курс C#\Lesson3.1\Lesson3.1\obj\Debug\net9.0\refint\Lesson3.1.dll
 C:\Курс C#\Lesson3.1\Lesson3.1\obj\Debug\net9.0\Lesson3.1.pdb
 C:\Курс C#\Lesson3.1\Lesson3.1\obj\Debug\net9.0\Lesson3.1.genruntimeconfig.cache
 C:\Курс C#\Lesson3.1\Lesson3.1\obj\Debug\net9.0\ref\Lesson3.1.dll
+C:\Курс C#\Lesson3.1\Lesson3.1\obj\Debug\net9.0\Lesson3.1.sourcelink.json
